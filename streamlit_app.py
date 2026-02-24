@@ -9,6 +9,7 @@ st.write(
   """Choose the fruits you want in your custom Smoothie!
   """
 )
+st.stop()
 
 #import streamlit as st
 
